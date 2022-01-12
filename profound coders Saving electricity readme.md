@@ -14,3 +14,18 @@ Team leader : Venuchaitanya
 Members : Lakhan singh ranawat and Hemendra rathore
 
 Technologies used : Maximum demand controllers, Automatic power factor controllers, Energy efficient motors, Soft starters with energy saver, Variable speed drives, Energy efficient transformers, Electronic ballast, Sensors, Occupancy sensors, Energy efficient lighting controls
+
+Project demo through coding : HOW A SENSOR CAN SAVE ENERGY OF AC ?
+SOLUTION :
+#include <iostream>
+using namespace std;
+
+
+int main() {
+    cout<<"\t"<<"\t"<<"!!!!!!!"<<"\t"<<"         Hey My Name is Venuchaitanya "<<"\t"<<"     !!!!!!!"<<endl<<endl;
+    cout<<"  I present a duty cycle which tells us how much AC temp is kept under                      certain body temp through a sensor";
+int fan_speed;
+//int // less than 0 = 0
+
+    return 0;
+}
