@@ -22,10 +22,20 @@ using namespace std;
 
 
 int main() {
-    cout<<"\t"<<"\t"<<"!!!!!!!"<<"\t"<<"         Hey My Name is Venuchaitanya "<<"\t"<<"     !!!!!!!"<<endl<<endl;
-    cout<<"  I present a duty cycle which tells us how much AC temp is kept under                      certain body temp through a sensor";
-int fan_speed;
-//int // less than 0 = 0
+    //  introduction to the program
+    // this is basic program 
+    cout<<"\t"<<"\t"<<"!!!!!!!"<<"\t"<<"\t"<<"Hey My Name is Venuchaitanya"<<"\t"<<"\t"<<"!!!!!!!"<<endl<<endl;
+    cout<<"  I present a duty cycle which tells us how much AC temp is kept under "<<"\t"<<"\t"<<"\t"<<"\t"<<" certain body temp through a sensor"<<endl<<endl;
+int BT;
+    cout<<"detecting body temperature = ";
+    // the censor will detect body temp and gives temp as input in program  
+    cin>>BT;
+    // taking input program will generate a output as AC temp
+    cout<<"\n"<<"\n"<<"\t"<<"The AC temp should be = "<<endl<<endl;
+     
+    for(BT=25;){
+        cout<<"19";
+    };
 
     return 0;
 }
