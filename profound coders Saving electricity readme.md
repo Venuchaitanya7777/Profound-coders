@@ -1,7 +1,7 @@
 
 # Profound-coders
 Topic : Saving electricity 
-Now a days, most of us forget to switch off light bulbs, fans, coolers, ACs, and many such machines when we go outside of our room, house or when really we don't need these facilities, and hence many energy get wasted. What is the solution of this problem ?
+Problem : Now a days, most of us forget to switch off light bulbs, fans, coolers, ACs, and many such machines when we go outside of our room, house or when really we don't need these facilities, and hence many energy get wasted. What is the solution of this problem ?
 SOLUTION :
 We can have a combinations of different machines and equipments with well connected and operated softwares to firstly determine the human presence in room so that if he/she needed light or not, by knowing whether the human is present in room or not through sensor, also if the person inside the room is sleeping light may automatically cut or may be at low bright according to his/her wish.
 Also, Fans/coolers/AC get cut-off by analysing human presence in room or may decrease/increase its intensity by analysing human body's temperature.
